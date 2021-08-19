@@ -1,0 +1,63 @@
+body{
+    background-image: linear-gradient(to right,rgb(234, 239, 240), rgb(194, 198, 201));
+}
+#container{
+    text-align: center;
+    width:40%;
+    height:60%;
+    background-color: rgb(224, 135, 51);
+    margin:auto;
+    margin-top:10%;
+    font-size: 30px;
+    border-radius: 20px;
+    
+}
+.button{
+    margin-left:2%;
+    margin-top:10%;
+    
+}
+#loginform{
+    text-align: center;
+    width:40%;
+    height:70%;
+    background-color: rgb(224, 135, 51);
+    margin:auto;
+    margin-top:7%;
+    font-size: 30px;
+    border-radius: 30px;
+}
+input[type="text"],input[type="password"]{
+    margin-top: 10%;
+    width:70%;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 24px;
+}
+.button{
+   
+    padding:15px;
+    color:cornsilk;
+    font-size: 24px;
+    width:40%;
+    border-radius: 20px;
+}
+#submit{
+    background-color: rgb(37, 128, 37);
+}
+#guest{
+    background-color: rgb(36, 57, 148);
+}
+#label{
+    font-size:15px;
+    text-align: left;
+    margin-right: 50%;
+    color:rgb(243, 240, 240);
+    margin-top: 5%;
+}
+#container button{
+    border-radius: 20px;
+    background-color:white;
+    width:40%;
+    height:15%;
+}

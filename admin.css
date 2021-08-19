@@ -1,0 +1,47 @@
+#navmenu{
+    width:100%;
+    height:7%;
+    background-color:rgba(212, 56, 9, 0.829) ;    
+}
+#navmenu button{
+    float:right;
+    width:10%;
+    height: 100%;
+    background-color: rgba(27, 136, 43, 0.911);
+    color:white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#navmenu img{
+    float:left;
+    height:100%;
+    width:10%;
+}
+#navmenu p{
+    color:white;
+    text-align: center;
+    padding:5px;
+    font-size: 1.5vw;
+}
+#sidenav{
+    margin-top: 2%;
+    width:20%;
+    height:85%;
+    background-color: rgba(212, 56, 9, 0.829);
+    float: left;
+   
+}
+.button{
+    float:left;
+    width:100%;
+    height:10%;
+    margin-top: 7%;
+    background-color:  rgba(185, 76, 43, 0.699);
+    border-radius: 15px;
+    color:white;
+    border-style: none;
+    font-size: 1.2vw;
+}
+.button:hover{
+    background-color: rgb(247, 153, 91);
+}
